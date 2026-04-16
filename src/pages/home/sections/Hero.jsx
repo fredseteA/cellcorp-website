@@ -4,7 +4,7 @@ import DownloadButton from "../../../components/Button"
 
 function Hero() {
   const handleWhatsAppClick = () => {
-    const phoneNumber = "5511999999999"
+    const phoneNumber = "554635365321"
     const message = "Olá! Gostaria de saber mais sobre o TopCell"
     window.open(`https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`, '_blank')
   }

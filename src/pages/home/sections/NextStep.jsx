@@ -3,7 +3,7 @@ import nextStepImg from "../../../assets/nextStepImg.png"
 
 function NextStep() {
   const handleWhatsAppClick = () => {
-    const phoneNumber = "5511999999999"
+    const phoneNumber = "554635365321"
     const message = "Olá! Gostaria de agendar uma demonstração do TopCell"
     window.open(`https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`, '_blank')
   }
