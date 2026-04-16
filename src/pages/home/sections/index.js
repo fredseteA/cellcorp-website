@@ -1,1 +1,4 @@
-export { default } from "./Hero"
+export { default as Hero } from "./Hero"
+export { default as Problems } from "./Problems"
+export { default as Ideais } from "./Ideais"
+export { default as NextStep } from "./NextStep"
