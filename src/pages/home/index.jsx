@@ -1,4 +1,4 @@
-import {Hero, Problems, Ideais, NextStep} from "./sections/index"
+import {Hero, Problems, Ideais, NextStep, Contact} from "./sections/index"
 
 function Home() {
   return (
@@ -7,6 +7,7 @@ function Home() {
       <Problems />
       <Ideais />
       <NextStep />
+      <Contact />
     </main>
   )
 }
