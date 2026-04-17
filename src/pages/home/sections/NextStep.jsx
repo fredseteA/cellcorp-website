@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react"
-import nextStepImg from "../../../assets/nextStepImg.png"
+import nextStepImg from "@/assets/nextStepImg.png"
 
 function NextStep() {
   const handleWhatsAppClick = () => {

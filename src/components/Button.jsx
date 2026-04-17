@@ -1,4 +1,4 @@
-import downloadIcon from "../assets/icons/downloadIcon.svg"
+import downloadIcon from "@/assets/icons/downloadIcon.svg"
 
 function DownloadButton({ 
   text = "Baixar Teste", 

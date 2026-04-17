@@ -1,6 +1,6 @@
-import logo from "../../../assets/logo/heroLogo.png"
-import heroBg from "../../../assets/hero-bg.png"
-import DownloadButton from "../../../components/Button"
+import logo from "@/assets/logo/heroLogo.png"
+import heroBg from "@/assets/hero-bg.png"
+import DownloadButton from "@/components/Button"
 
 function Hero() {
   const handleWhatsAppClick = () => {

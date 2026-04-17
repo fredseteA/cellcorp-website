@@ -1,4 +1,4 @@
-import logo from "../assets/logo/heroLogo.png"
+import logo from "@/assets/logo/heroLogo.png"
 import { Mail, Phone, MapPin } from "lucide-react"
 
 // SVGs inline para redes sociais (não dependem da versão do lucide-react)

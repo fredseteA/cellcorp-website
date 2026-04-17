@@ -1,4 +1,4 @@
-import personIcon from "../../../assets/icons/personIcon.svg"
+import personIcon from "@/assets/icons/personIcon.svg"
 import { useEffect, useRef, useState } from "react"
 import { PackageX, TrendingDown, Clock, BarChart2 } from "lucide-react"
 

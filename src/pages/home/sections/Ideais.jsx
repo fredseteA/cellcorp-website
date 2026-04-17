@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react"
-import instaPost from "../../../assets/postImg.png"
-import logo from "../../../assets/logo/grayLogo.jpg"
+import instaPost from "@/assets/postImg.png"
+import logo from "@/assets/logo/grayLogo.jpg"
 
 const INSTAGRAM_POST_URL = "https://www.instagram.com/p/CzmTkDVPp-2/"
 const INSTAGRAM_PROFILE_IMAGE = logo 

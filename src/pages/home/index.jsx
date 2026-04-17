@@ -1,4 +1,5 @@
-import {Hero, Problems, Ideais, NextStep, Contact} from "./sections/index"
+import {Hero, Problems, Ideais, NextStep} from "./sections/index"
+import Contact from "@/components/Contact"
 
 function Home() {
   return (

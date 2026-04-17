@@ -1,8 +1,8 @@
 import { useState } from "react"
 import { Link } from "react-router-dom"
-import logo from "../assets/logo/logo.svg"
+import logo from "@/assets/logo/logo.svg"
 import DownloadButton from "./Button"
-import menuIcon from "../assets/icons/menuIcon.svg"
+import menuIcon from "@/assets/icons/menuIcon.svg"
 
 const navLinks = [
   { label: "Início", path: "/" },
