@@ -8,7 +8,7 @@ function Home() {
       <Problems />
       <Ideais />
       <NextStep />
-      <ContatoSection variant="dark" showMap={false} /> 
+      <Contact />
     </main>
   )
 }
