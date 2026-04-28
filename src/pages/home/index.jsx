@@ -8,7 +8,7 @@ function Home() {
       <Problems />
       <Ideais />
       <NextStep />
-      <Contact />
+      <Contact variant="dark" showHeader />
     </main>
   )
 }

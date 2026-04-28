@@ -1,7 +1,12 @@
+import { AboutHero, AboutMission } from "./sections"
+import Contact from "@/components/Contact"
+
 function About() {
   return (
     <main>
-      <h1>About</h1>
+      <AboutHero />
+      <AboutMission />
+      <Contact variant="map" showHeader />
     </main>
   )
 }
